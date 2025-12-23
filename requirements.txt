@@ -1,0 +1,4 @@
+# AWS MSK Producer 依赖包
+kafka-python==2.0.1
+boto3==1.34.0
+six==1.16.0
